@@ -1,0 +1,17 @@
+## 知识星球
+
+本项目为原星球伴侣插件的**修复学习**版，从原插件的1.17版本修复而来，仅供学习交流使用。若您使用本项目，请遵守知识星球的相关规定，所产生的一切后果由您自行承担。
+
+## 使用方法
+
+下载[压缩包](https://github.com/shiquda/zsxq-dl-fix/archive/refs/heads/main.zip)，并且解压，并在浏览器中使用开发者模式加载解压后的文件夹即可。可以参考
+
+<https://github.com/ohnonoyesyes/zsxq_dl>
+
+## 感谢
+
+<https://github.com/ohnonoyesyes/zsxq_dl>
+
+## 其他你可能会用到的工具
+
+https://github.com/doscriptsite/ZSXQ-Spider

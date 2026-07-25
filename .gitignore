@@ -1,0 +1,16 @@
+# CodeGraph index
+.codegraph/
+
+# Trae plan documents
+.trae/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.log
+
+# Backup/intermediate files
+*.backup
+*.modified
